@@ -1,2 +1,2 @@
 # MarkDown
-[myself](../iiilight/MarkDown/README)
+[myself](https://github.com/iiilight/MarkDown/edit/master/README.md)
