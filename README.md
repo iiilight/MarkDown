@@ -1,2 +1,3 @@
 # MarkDown
-![myself](https://github.com/iiilight/MarkDown/edit/master/README.md)
+
+[second mark down file](https://github.com/iiilight/MarkDown/blob/master/second.md)
