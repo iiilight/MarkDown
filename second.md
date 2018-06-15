@@ -1,7 +1,8 @@
 ## H2
 #### H4
 [Google](www.google.com)
-[README](https://github.com/iiilight/MarkDown/edit/master/README.md)
+
+[Jump to README](https://github.com/iiilight/MarkDown/edit/master/README.md)
 ___
 This is the picture: ![image](https://github.com/iiilight/MarkDown/blob/master/picture.jpg)
 ___
